@@ -11,3 +11,5 @@ This is first file
 </html>
 
 This is first file of newfolder --> Time 02:42 
+
+I am a textfile of new folder 2 
